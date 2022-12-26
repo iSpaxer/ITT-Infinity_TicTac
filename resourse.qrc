@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/BackgroundGameField.png</file>
+        <file>resourses/bg.png</file>
+        <file>resourses/cross_large.png</file>
+        <file>resourses/cross_small.png</file>
+        <file>resourses/name.png</file>
+        <file>resourses/title_ico.png</file>
+        <file>resourses/zero_large.png</file>
+        <file>resourses/zero_small.png</file>
+        <file>resourses/cross_test.png</file>
+        <file>resourses/zero_test.png</file>
+    </qresource>
+</RCC>
