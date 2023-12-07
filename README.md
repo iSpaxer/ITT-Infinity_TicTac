@@ -14,4 +14,6 @@
 
 ![image](https://github.com/iSpaxer/ITT-Infinity_TicTac/assets/99914669/e815c3da-cf10-441b-b66b-bfc238691e5e)
 ![image](https://github.com/iSpaxer/ITT-Infinity_TicTac/assets/99914669/a770dbd3-ece6-411f-a538-169fb4a23031)
+![image](https://github.com/iSpaxer/ITT-Infinity_TicTac/assets/99914669/6fbb64e2-db91-47e1-9410-703d83e6b6ba)
+
 
